@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.7db26681dfd3494d6a467d877911c90f.js"
+  "/precache-manifest.0a6922e55eb47cf0c94a19175dbd89be.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "gcodeviewer_site"});
