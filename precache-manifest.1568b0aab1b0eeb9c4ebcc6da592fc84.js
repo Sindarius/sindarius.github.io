@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/benchy_color.gcode"
   },
   {
-    "revision": "699afe1aaf14fc373f21",
+    "revision": "c5ed50b547307a6ed89a",
     "url": "/css/app.ca43121a.css"
   },
   {
@@ -20,12 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/octoprint.6aa2c67e.png"
   },
   {
-    "revision": "71e0d232c641e89195e3f04918545843",
+    "revision": "c8904f37e67e35eb0fc0b4ec9d8f08ab",
     "url": "/index.html"
   },
   {
-    "revision": "699afe1aaf14fc373f21",
-    "url": "/js/app.fb09fd1f.js"
+    "revision": "c5ed50b547307a6ed89a",
+    "url": "/js/app.e08af0a8.js"
   },
   {
     "revision": "e4798de9c592c73abc04",
