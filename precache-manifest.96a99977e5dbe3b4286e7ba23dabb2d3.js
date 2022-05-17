@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/benchy_color.gcode"
   },
   {
-    "revision": "34db879bf2727c19b236",
-    "url": "/css/app.80f7f0a6.css"
+    "revision": "a372e65c88a28ffc5222",
+    "url": "/css/app.7342ab26.css"
   },
   {
     "revision": "2c41e1bb9cccbb57f6da",
@@ -28,12 +28,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/viewer.png"
   },
   {
-    "revision": "336f9530d00a57547439f471e87c9aa7",
+    "revision": "b08ab917c5197d0720061266cb4f2998",
     "url": "/index.html"
   },
   {
-    "revision": "34db879bf2727c19b236",
-    "url": "/js/app.0eb2baa0.js"
+    "revision": "a372e65c88a28ffc5222",
+    "url": "/js/app.127a26e6.js"
   },
   {
     "revision": "2c41e1bb9cccbb57f6da",
