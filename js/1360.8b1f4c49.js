@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkgcodeviewer_site"]=self["webpackChunkgcodeviewer_site"]||[]).push([[1360],{21360:function(e,r,n){n.r(r),n.d(r,{passPixelShader:function(){return i}});var a=n(61206);const s="passPixelShader",t="varying vec2 vUV;uniform sampler2D textureSampler;\n#define CUSTOM_FRAGMENT_DEFINITIONS\nvoid main(void) \n{gl_FragColor=texture2D(textureSampler,vUV);}";a.v.ShadersStore[s]=t;const i={name:s,shader:t}}}]);
+//# sourceMappingURL=1360.8b1f4c49.js.map
